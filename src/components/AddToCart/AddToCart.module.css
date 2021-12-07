@@ -1,0 +1,17 @@
+.container {
+  width:20vw;
+  height: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+  background-color:lightgray;
+  border-radius:5px;
+ 
+
+
+}
+.title{
+  font-weight: bold;
+  font-size: 24px;
+  color: black;
+}

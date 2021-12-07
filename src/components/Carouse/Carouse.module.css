@@ -1,0 +1,21 @@
+.show {
+  width: 35vw;
+  margin-bottom: 10px;
+}
+.imgList {
+  display: flex;
+}
+.img {
+  width: 100px;
+ 
+
+}
+.li{
+  margin-right: 5px;
+  padding: 3px;
+  border:1px solid darkgray;
+}
+.active{
+  
+  border:1px solid black;
+}

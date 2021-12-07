@@ -1,0 +1,10 @@
+.container {
+  height: 50px;
+  width: 100vw;
+  background-color: lightgray;
+  color:black;
+  text-align: center;
+  line-height:50px;
+  position: fixed;
+  bottom: 0;
+}

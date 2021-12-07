@@ -1,0 +1,28 @@
+.container {
+  
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: space-around;
+  padding: 10px;
+  
+}
+.productDetail{
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.productName {
+  padding: 5px 0;
+  font-size: 18px;
+  font-weight: 400;
+}
+.productPrice{
+  padding: 5px 0;
+  font-size: 24px;
+  font-weight: bold;
+}
+

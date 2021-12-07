@@ -1,0 +1,30 @@
+
+.quantity {
+  width: 7vw;
+  height: 30px;
+ 
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.input {
+  height: 25px;
+  width: 5vw;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 900;
+  border:1px solid  lightgray;
+  border-radius:10px
+}
+
+.btn {
+  font-size: 24px;
+  cursor: pointer;
+  color:black;
+  background-color: inherit;
+}
+.disabled { 
+  cursor: not-allowed;
+  pointer-events: none;
+  color: lightgray;
+}

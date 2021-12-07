@@ -1,0 +1,30 @@
+.container {
+  box-sizing: border-box;
+}
+.categories {
+  
+  padding:20px  0 0 100px
+}
+.mainCate {
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.subCate {
+  margin: 10px 10px;
+  cursor: pointer;
+} 
+.mainTitle {
+  font-size: 24px;
+  font-weight: bold;
+}
+.mainTitle:hover {
+  color:orange;
+}
+.subTitle {
+  font-size: 18px;
+  font-weight: 600;
+}
+.subTitle:hover {
+  color:orange;
+}

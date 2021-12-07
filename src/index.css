@@ -71,14 +71,16 @@ a {
     text-decoration: none;
 }
 
-a:hover {
+/* a:hover {
     color: #C81623;
-}
+} */
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 ,p,span{
+    line-height: 1em;
     text-decoration: none;
     font-weight: normal;
     font-size: 100%;
+    color:black
 }
 
 s, i, em {
@@ -88,4 +90,10 @@ s, i, em {
 
 .col-red {
     color: #C81623 !important;
+}
+.active {
+    background-color: white;
+    color:black !important;
+    font-weight: bold !important;
+    border-radius: 5px 5px 0 0 ;
 }

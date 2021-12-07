@@ -1,0 +1,26 @@
+.container {
+  width: 60vw;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center;
+  justify-content: space-around; */
+}
+.wrapper {
+  width: 60vw;
+  margin: 50px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.name ,.price {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.line{
+  
+  height: 1px;
+  width: 60vw;
+  background-color:lightgrey;
+}

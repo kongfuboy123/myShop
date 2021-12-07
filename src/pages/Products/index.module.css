@@ -1,0 +1,17 @@
+.container{
+  margin: 150px auto;
+  display: flex;
+
+}
+.left{
+  flex:1;
+
+}
+.right{
+  flex:4;
+  display: flex;
+  flex-wrap: wrap;
+  align-items:center;
+  justify-items: center;
+
+}
